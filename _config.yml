@@ -3,7 +3,7 @@
 #------------------------------------------------------------------------------
 name: "岁川KAWA"
 description: "啥也不势"
-language: "ch"
+language: "en"
 
 url: http://localhost:4000
 baseurl: ''
