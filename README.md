@@ -33,7 +33,7 @@ This file contains the configuration of your blog. By default, it looks like thi
     # General
     name: 岁川KAWA
     description: "啥也不势"
-    url: kawasui.github.io
+    url: http://localhost:4000
 
     markdown: redcarpet
     highlighter: pygments
